@@ -1,5 +1,6 @@
-Belly Button Heroku App:
-https://bellybutton-bio.herokuapp.com/
+Belly Button App:
+https://deepakarnani.github.io/belly-button-biodiversity/
+
 
 
 # Belly Button Biodiversity
